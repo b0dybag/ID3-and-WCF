@@ -1,0 +1,6 @@
+c:\users\cthulhu\documents\visual studio 2015\Projects\ST3PClient\ST3PClient\bin\Debug\ST3PClient.exe.config
+c:\users\cthulhu\documents\visual studio 2015\Projects\ST3PClient\ST3PClient\obj\Debug\ST3PClient.csprojResolveAssemblyReference.cache
+c:\users\cthulhu\documents\visual studio 2015\Projects\ST3PClient\ST3PClient\bin\Debug\ST3PClient.exe
+c:\users\cthulhu\documents\visual studio 2015\Projects\ST3PClient\ST3PClient\bin\Debug\ST3PClient.pdb
+c:\users\cthulhu\documents\visual studio 2015\Projects\ST3PClient\ST3PClient\obj\Debug\ST3PClient.exe
+c:\users\cthulhu\documents\visual studio 2015\Projects\ST3PClient\ST3PClient\obj\Debug\ST3PClient.pdb

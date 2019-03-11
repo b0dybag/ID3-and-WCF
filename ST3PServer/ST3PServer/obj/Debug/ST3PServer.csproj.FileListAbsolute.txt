@@ -1,0 +1,6 @@
+C:\Users\Cthulhu\documents\visual studio 2015\Projects\ST3PServer\ST3PServer\bin\ST3PServer.dll.config
+C:\Users\Cthulhu\documents\visual studio 2015\Projects\ST3PServer\ST3PServer\bin\ST3PServer.dll
+C:\Users\Cthulhu\documents\visual studio 2015\Projects\ST3PServer\ST3PServer\bin\ST3PServer.pdb
+C:\Users\Cthulhu\documents\visual studio 2015\Projects\ST3PServer\ST3PServer\obj\Debug\ST3PServer.csprojResolveAssemblyReference.cache
+C:\Users\Cthulhu\documents\visual studio 2015\Projects\ST3PServer\ST3PServer\obj\Debug\ST3PServer.dll
+C:\Users\Cthulhu\documents\visual studio 2015\Projects\ST3PServer\ST3PServer\obj\Debug\ST3PServer.pdb
